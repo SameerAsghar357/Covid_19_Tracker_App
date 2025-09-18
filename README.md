@@ -24,12 +24,12 @@ Beginner-friendly code structure
 
 📸 Screenshots
 
- <p align="start">
-    <img src="images/SplashScreen.png" width="220" style="margin-right:25px;"/>
-    <img src="images/World_Stats.png" width="220" style="margin-right:25px;"/>
-    <img src="images/Countries_List.png" width="220" style="margin-right:25px;"/>
+<div style="display:flex; gap:30px; align-items:flex-start;">
+    <img src="images/SplashScreen.png" width="220"/>
+    <img src="images/World_Stats.png" width="220"/>
+    <img src="images/Countries_List.png" width="220"/>
     <img src="images/Deatils.png" width="220"/>
-</p>
+</div>
 
 ---
 
