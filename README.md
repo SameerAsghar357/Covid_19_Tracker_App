@@ -24,7 +24,7 @@ Beginner-friendly code structure
 
 📸 Screenshots
 
-<div style="display:flex; gap:30px; align-items:flex-start;">
+<div style="display:flex; gap:15px; align-items:flex-start;">
     <img src="images/SplashScreen.png" width="220"/>
     <img src="images/World_Stats.png" width="220"/>
     <img src="images/Countries_List.png" width="220"/>
