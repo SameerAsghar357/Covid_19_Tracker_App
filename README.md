@@ -24,7 +24,12 @@ Beginner-friendly code structure
 
 📸 Screenshots
 
-(Add your screenshots here)
+ <p align="start">
+    <img src="images/SplashScreen.png" width="220"/>
+    <img src="images/World_Stats.png" width="220"/>
+    <img src="images/Countries_List.png" width="220"/>
+    <img src="images/Deatils.png" width="220"/>
+ </p>
 
 ---
 
